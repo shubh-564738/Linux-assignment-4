@@ -261,4 +261,3 @@ chage: user 'john_doe' does not exist in /etc/passwd
 root@shubham-Latitude-7480:~/MyFile# grep PASS_MAX_DAYS /etc/login.defs
 #	PASS_MAX_DAYS	Maximum number of days a password may be used.
 PASS_MAX_DAYS  90
-23.
